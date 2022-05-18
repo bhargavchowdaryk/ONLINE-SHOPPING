@@ -3,7 +3,7 @@
 
 ***
 - This project is a eCommerce web site which is used to sell cloths which a user can sign up and login to add products to cart and checkout.
--	Users can select any product which is on website according to categories. Users can select clothing by category men and women clothing. Users can see more information by clicking on product like price,discount,and reviews. Users can add their product to cart and wishlist.Users can order their product to their location.If user forgot their password they can click on forgot password the password link will get his email id whch is added to his account. User can create a account and login to their personal account. ![Screenshot (8)](https://user-images.githubusercontent.com/104010340/168953716-2ec65778-26f5-4ec0-8bdf-37b158da7c52.png)
+-	Users can select any product which is on website according to categories. Users can select clothing by category men and women clothing. Users can see more information by clicking on product like price,discount,and reviews. Users can add their product to cart and wishlist.Users can order their product to their location.If user forgot their password they can click on forgot password the password link will get his email id whch is added to his account. User can create a account and login to their personal account.
 
 -	Below is the front and backend of website which  used to develop this website.
 ### Entities
@@ -49,3 +49,5 @@
 ![Screenshot (6)](https://user-images.githubusercontent.com/104010340/168953611-34d0c0d4-2229-422b-acee-acc13d294fe4.png)
 ![Screenshot (11)](https://user-images.githubusercontent.com/104010340/168953637-6949bab2-e170-4867-83db-ea1254ea6fbd.png)
 
+
+![Screenshot (8)](https://user-images.githubusercontent.com/104010340/168953816-b34791ed-4218-497a-87f3-a97ec89d961e.png)
